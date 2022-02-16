@@ -1,0 +1,1 @@
+void szoveg(char* s, int n);
